@@ -44,7 +44,7 @@ def actor
     }
   end 
   
-  def monopoly_with_fourt_tier
+  def monopoly_with_fourth_tier
     monopoly = {
     railroads: {
      pieces: 4,
