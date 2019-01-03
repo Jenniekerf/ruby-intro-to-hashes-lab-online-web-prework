@@ -18,7 +18,6 @@ def actor
     monopoly = {
     railroads: {
       => pieces: 4
-      
-    }
+      }
     }
   end 
